@@ -1,13 +1,10 @@
-# Templates para slides do Reveal.js
+# Palestra - Experiência no mercado de trabalho
 
-**Descrição**: Esse é o repositório base com a estrutura padrão das apresentações feitas pelo [Grupo Tesseract](http://grupotesseract.com.br).
+**Descrição**: Slides para acompanhamento durante a palestra.
+**Local**: Sala 01, Aula Inaugural, UNESP, Bauru, SP
+**Data**: 04/07/2017 17:00
 
  - Baseado no projeto open-source [reveal-js](http://lab.hakim.se/reveal-js/#/).
-
-## Branches
-**master**: Core básico com, dividido em index e uma pasta slides com os capítulos e partes pré/pós apresentação.
-
-**repasse-mensal**: Estrutura tirada á partir da master, com adaptação na estrutura das pastas
 
 ## Requisitos
 
@@ -17,8 +14,8 @@
 ## Instalação
 
 ``` sh
-git clone git@github.com:grupotesseract/slides-minicurso-laravel.git
-cd slides-minicurso-laravel
+git clone git@github.com:renatoagomes/slides-palestra-mercado-trabalho.git
+cd slides-palestra-mercado-trabalho
 npm i
 npm start
 ```

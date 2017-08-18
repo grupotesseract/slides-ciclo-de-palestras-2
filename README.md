@@ -1,8 +1,8 @@
 # Palestra - Experiência no mercado de trabalho
 
-**Descrição**: Slides para acompanhamento durante a palestra.
-**Local**: Sala 01, Aula Inaugural, UNESP, Bauru, SP
-**Data**: 04/07/2017 17:00
+**Descrição**: Slides para acompanhamento durante a palestra. do [Grupo Tesseract](http://grupotesseract.com.br) na Feira de Profissões
+**Local**: Sala 03, UNESP, Bauru/SP
+**Data**: 18/08/2017 18:30
 
  - Baseado no projeto open-source [reveal-js](http://lab.hakim.se/reveal-js/#/).
 
@@ -14,8 +14,8 @@
 ## Instalação
 
 ``` sh
-git clone git@github.com:renatoagomes/slides-palestra-mercado-trabalho.git
-cd slides-palestra-mercado-trabalho
+git clone git@github.com:renatoagomes/palestra-feira-profissoes.git
+cd palestra-feira-profissoes
 npm i
 npm start
 ```

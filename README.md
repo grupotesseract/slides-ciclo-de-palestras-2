@@ -1,23 +1,22 @@
-# Palestra - Experiência no mercado de trabalho
+# Palestra - "Trabalha quem quer, ganha quem trabalha"
 
-**Descrição**: Slides para acompanhamento durante a palestra. do [Grupo Tesseract](http://grupotesseract.com.br) na Feira de Profissões
-**Local**: Sala 03, UNESP, Bauru/SP
-**Data**: 18/08/2017 18:30
+**Descrição**: Slides para acompanhamento durante a palestra. do [Grupo Tesseract](http://grupotesseract.com.br) no Ciclo de Palestras 
+**Local**: Sala 01??, UNESP, Bauru/SP
+**Data**: 23/10/2018 16:00
 
  - Baseado no projeto open-source [reveal-js](http://lab.hakim.se/reveal-js/#/).
 
 ## Requisitos
 
-- [NodeJS](https://nodejs.org/en/download)
-- [Grunt](https://gruntjs.com)
+- Yarn ou NPM
 
 ## Instalação
 
 ``` sh
-git clone git@github.com:renatoagomes/palestra-feira-profissoes.git
-cd palestra-feira-profissoes
-npm i
-npm start
+git clone https://github.com/grupotesseract/slides-ciclo-de-palestras-2
+cd slides-ciclo-de-palestras-2
+yarn
+yarn start
 ```
 
 Feita a instalação, basta abrir o endereço http://localhost:8000 no navegador.

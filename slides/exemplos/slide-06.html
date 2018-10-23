@@ -1,0 +1,18 @@
+<h5>Relacionamentos</h5>
+
+
+<ul>
+
+  <li  style="margin: .3m 0 0 0;" class=""><span>Abstração dos Relacionamentos do Banco de Dados</span></li>
+
+  <li class="fragment"> Inserção na tabela Comentários, que está associada a um Usuário: <br>
+    <p class="linux-terminal m-t-1"><span class="terminal-dollar">$</span> $usuario = Usuario::create(['nome' => 'Fernando', 'apelido' => 'Atchim', 'nascimento' => '28/07/1992']);</p>
+    <p class="linux-terminal m-t-1"><span class="terminal-dollar">$</span> $comentario = $usuario->comentarios()->create(['mensagem' => 'Eu estou precisando de férias']);</p>
+  </li>
+
+  <li class="fragment">Documentação<br>
+    <a href="https://laravel.com/docs/5.7/eloquent-relationships" target="_blank">https://laravel.com/docs/5.7/eloquent-relationships</a>
+  </li>
+
+
+</ul>
